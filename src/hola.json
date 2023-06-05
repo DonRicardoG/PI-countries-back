@@ -1,0 +1,17 @@
+{
+    "name": "Mexico",
+    "cca3": "MEX",
+    "capital": [
+    "Mexico City"
+    ],
+    "subregion": "North America",
+    "area": 1964375,
+    "population": 128932753,
+    "continents": [
+    "North America"
+    ],
+    "flags": [
+        "https://flagcdn.com/mx.svg",
+    "https://flagcdn.com/w320/mx.png"
+    ]
+    }
